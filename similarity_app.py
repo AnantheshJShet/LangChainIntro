@@ -10,7 +10,7 @@ st.set_page_config(page_title="Similarity Demo", page_icon=":robot:")
 st.header("Hey, provide me a game name & I will give you similar games")
 
 games = CSVLoader(
-   file_path='./games.csv',
+   file_path='./data/games.csv',
    csv_args={
    'delimiter': ',',
    'quotechar': '"',
