@@ -22,3 +22,6 @@ mcq_creator_app.py
 
 # CSV Analyzer Demo
 streamlit run .\csv_analyzer_app.py
+
+# Youtube Script Writer Demo
+streamlit run .\youtube_script_writer_app.py
